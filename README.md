@@ -1,6 +1,3 @@
-# fantastic
-Fantastic Readme
-
 About Me
 
 👋 Hello! I'm Luis Gellon, a passionate tech enthusiast and software developer.
