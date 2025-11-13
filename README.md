@@ -7,8 +7,8 @@ About Me
 - 🌟 Interests: AI, machine learning, SEO, PPC, ecommerce and Marketing.
 - 💼 Current Role: Digital Consultant at 123conecta.com.
 - 📚 Education: H1 Hdip in CS and AI from National College of Ireland.
-- 💡 Skills: - Languages: Python, C, Java, HTML, CSS, Rust, SQL.
-- Frameworks: WP, Shopify, Django
+- 💡 Skills: - Languages: Python, C, Java, HTML, CSS, SQL.
+- Frameworks: WP, Shopify
 - Tools: Git, learning Docker and Kubernetes (love cool tech)
 
 
